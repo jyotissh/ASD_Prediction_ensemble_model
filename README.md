@@ -1,1 +1,2 @@
-# ASD_Prediction_ensemble_model
+# Source code for ASD Prediction and risk factor analysis
+This repository consists of the notebooks and datasets, which were involved in the research article named _A New approach for predicting and analyzingthe risk factors related to Autism Spectrum Disorder using an ensemble model of Linear Discriminant Analysis, LightGBM and XGBoost_.
